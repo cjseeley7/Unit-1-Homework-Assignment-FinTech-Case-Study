@@ -34,7 +34,34 @@ CBA has formed an exclusive partnership in Australia with Gemini, which is one o
 ![Gemini Partnership](https://www.altcoinbuzz.io/wp-content/uploads/2020/04/Gemini-Exchange-Obtains-Another-Security-Certification.jpg)
 
 ### **Landscape**
+Commonwealth Bank has operated in the traditional banking and finance domain, which has seen some of the biggest advancements in technology to date. 
+
+Banking has become increasingly more digital as customers become less loyal to their local branch. Banks have started using open banking, which used application programming interfaces (APIs) to make data available for accredited third parties, allowing consumers to gain greater access and control over their banking data. This makes it easier to switch products, such as savings accounts and home loans. 
+
+Neobanks, commonly referred to as digital banks, operate without a physical branch. The barriers to entry for new banks were lowered after a legislative change in 2018, which has seen a significant rise of neobanks in Australia. They are generally more cost effective and more nimble than traditional banks.
+
+The major competitors to Commonwealth Bank have traditionally been the National Australian Bank, ANZ and Westpac. However, with the rise of neobanks, the competitors have increased and digital banks such as UBank, ING, RaboDirect and ME Bank have taken significant market share.
 
 
 
+### **Results**
+
+
+
+
+* What has been the business impact of this company so far?
+
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+* How is your company performing relative to competitors in the same domain?
+
+## Recommendations
+
+* If you were to advise the company, what products or services would you suggest they offer? (This could be something that a competitor offers, or use your imagination!)
+
+* Why do you think that offering this product or service would benefit the company?
+
+* What technologies would this additional product or service utilize?
+
+* Why are these technologies appropriate for your solution?
 
